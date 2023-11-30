@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **nurarisha@graduate.utm.my**
-- Take a look at my portfolio [HERE](http://nurarisha.github.io)
+- Take a look at my portfolio [HERE](https://ar1sha55.github.io/)
 
   
 
